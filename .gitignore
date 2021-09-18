@@ -1,0 +1,11 @@
+release/
+debug/
+Release/
+Debug/
+TPRDDraw/gs_report.c
+TPRDDraw/invarg.c
+*.suo
+*.user
+*.ncb
+*.vcproj
+*.sln
